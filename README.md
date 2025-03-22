@@ -24,7 +24,7 @@ This project involves designing a **Power BI dashboard** to analyze the sales tr
 
 ---
 
-**Author**: [Aditya Maity]  
-**Contact**: [maityaditya2325@gmail.com]  
+**Author**: Aditya Maity
+**Contact**: maityaditya2325@gmail.com
 **Date**: March 2025
 
