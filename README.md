@@ -22,9 +22,9 @@ This project involves designing a **Power BI dashboard** to analyze the sales tr
 2. Explore various sales metrics using interactive filters.
 3. Gain insights into product performance, revenue trends, and business opportunities.
 
----
+**Author**: Aditya Maity  
+**Contact**: maityaditya2325@gmail.com  
+**Date**: March 2025
 
-**Author**: Aditya Maity 
-**Contact**: maityaditya2325@gmail.com 
-**Date**: March 2025 
+
 
